@@ -14,11 +14,11 @@ main()
 			break;
 		case 3:
 			printf("You picked pasta at the cost of 179");
-            break;
+                        break;
 		case 4:
 		    printf("You have picked french fries at the cost of 99");
 		    break;
-		case 5:
+	        case 5:
 			printf("You have picked sandwich at the cost of 149");
 	}
 }
