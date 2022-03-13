@@ -1,2 +1,0 @@
-# nehashanmugm
-developed by Neha
